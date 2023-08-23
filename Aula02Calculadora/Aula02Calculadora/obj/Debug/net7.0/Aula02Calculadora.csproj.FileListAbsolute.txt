@@ -1,0 +1,14 @@
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\bin\Debug\net7.0\Aula02Calculadora.exe
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\bin\Debug\net7.0\Aula02Calculadora.deps.json
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\bin\Debug\net7.0\Aula02Calculadora.runtimeconfig.json
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\bin\Debug\net7.0\Aula02Calculadora.dll
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\bin\Debug\net7.0\Aula02Calculadora.pdb
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\obj\Debug\net7.0\Aula02Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\obj\Debug\net7.0\Aula02Calculadora.AssemblyInfoInputs.cache
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\obj\Debug\net7.0\Aula02Calculadora.AssemblyInfo.cs
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\obj\Debug\net7.0\Aula02Calculadora.csproj.CoreCompileInputs.cache
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\obj\Debug\net7.0\Aula02Calculadora.dll
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\obj\Debug\net7.0\refint\Aula02Calculadora.dll
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\obj\Debug\net7.0\Aula02Calculadora.pdb
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\obj\Debug\net7.0\Aula02Calculadora.genruntimeconfig.cache
+E:\projetos\C# - Aulageneration\Aula02Calculadora\Aula02Calculadora\obj\Debug\net7.0\ref\Aula02Calculadora.dll
