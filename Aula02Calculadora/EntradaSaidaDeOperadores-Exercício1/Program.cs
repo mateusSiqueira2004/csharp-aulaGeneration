@@ -11,7 +11,7 @@
             abono = Convert.ToSingle(Console.ReadLine());
 
             salarioNv = salarioAtg + abono;
-            Console.WriteLine("O novo salário será: "+abono);
+            Console.WriteLine($"O novo salário será: {salarioNv:F2}");
         }
     }
 }

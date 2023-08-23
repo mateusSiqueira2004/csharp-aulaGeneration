@@ -1,0 +1,14 @@
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\bin\Debug\net7.0\EntradaSaidaDeOperadores-Exercício2.exe
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\bin\Debug\net7.0\EntradaSaidaDeOperadores-Exercício2.deps.json
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\bin\Debug\net7.0\EntradaSaidaDeOperadores-Exercício2.runtimeconfig.json
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\bin\Debug\net7.0\EntradaSaidaDeOperadores-Exercício2.dll
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\bin\Debug\net7.0\EntradaSaidaDeOperadores-Exercício2.pdb
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\obj\Debug\net7.0\EntradaSaidaDeOperadores-Exercício2.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\obj\Debug\net7.0\EntradaSaidaDeOperadores-Exercício2.AssemblyInfoInputs.cache
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\obj\Debug\net7.0\EntradaSaidaDeOperadores-Exercício2.AssemblyInfo.cs
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\obj\Debug\net7.0\EntradaSaidaDeOperadores-Exercício2.csproj.CoreCompileInputs.cache
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\obj\Debug\net7.0\EntradaSaidaDeOperadores-Exercício2.dll
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\obj\Debug\net7.0\refint\EntradaSaidaDeOperadores-Exercício2.dll
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\obj\Debug\net7.0\EntradaSaidaDeOperadores-Exercício2.pdb
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\obj\Debug\net7.0\EntradaSaidaDeOperadores-Exercício2.genruntimeconfig.cache
+E:\projetos\C# - Aulageneration\Aula02Calculadora\EntradaSaidaDeOperadores-Exercício2\obj\Debug\net7.0\ref\EntradaSaidaDeOperadores-Exercício2.dll
