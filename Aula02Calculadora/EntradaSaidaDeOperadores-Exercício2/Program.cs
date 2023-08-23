@@ -16,7 +16,7 @@
 
             ntF = (ntB1 + ntB2 + ntB3 + ntB4) / 4;
 
-            Console.WriteLine($"A média final é: {ntF:F2}");
+            Console.WriteLine($"A média final é: {ntF:F1}");
         }
     }
 }
