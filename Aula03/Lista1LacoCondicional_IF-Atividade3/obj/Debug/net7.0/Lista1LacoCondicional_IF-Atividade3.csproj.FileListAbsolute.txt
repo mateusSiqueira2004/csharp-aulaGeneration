@@ -1,0 +1,14 @@
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\bin\Debug\net7.0\Lista1LacoCondicional_IF-Atividade3.exe
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\bin\Debug\net7.0\Lista1LacoCondicional_IF-Atividade3.deps.json
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\bin\Debug\net7.0\Lista1LacoCondicional_IF-Atividade3.runtimeconfig.json
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\bin\Debug\net7.0\Lista1LacoCondicional_IF-Atividade3.dll
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\bin\Debug\net7.0\Lista1LacoCondicional_IF-Atividade3.pdb
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\obj\Debug\net7.0\Lista1LacoCondicional_IF-Atividade3.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\obj\Debug\net7.0\Lista1LacoCondicional_IF-Atividade3.AssemblyInfoInputs.cache
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\obj\Debug\net7.0\Lista1LacoCondicional_IF-Atividade3.AssemblyInfo.cs
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\obj\Debug\net7.0\Lista1LacoCondicional_IF-Atividade3.csproj.CoreCompileInputs.cache
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\obj\Debug\net7.0\Lista1LacoCondicional_IF-Atividade3.dll
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\obj\Debug\net7.0\refint\Lista1LacoCondicional_IF-Atividade3.dll
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\obj\Debug\net7.0\Lista1LacoCondicional_IF-Atividade3.pdb
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\obj\Debug\net7.0\Lista1LacoCondicional_IF-Atividade3.genruntimeconfig.cache
+E:\projetos\C# - Aulageneration\Aula03\Lista1LacoCondicional_IF-Atividade3\obj\Debug\net7.0\ref\Lista1LacoCondicional_IF-Atividade3.dll

@@ -9,13 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula03-ReajusteSalarial", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula03-Notas", "Aula03-Notas\Aula03-Notas.csproj", "{89ECAD80-D016-4990-B92C-E92A31A0A0DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista1LacoCondicional_IF-Atividade1", "Lista1LacoCondicional_IF-Atividade1\Lista1LacoCondicional_IF-Atividade1.csproj", "{2CDD90B6-504E-47AB-9BF8-2187AEC4FD31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista1LacoCondicional_IF-Atividade1", "Lista1LacoCondicional_IF-Atividade1\Lista1LacoCondicional_IF-Atividade1.csproj", "{2CDD90B6-504E-47AB-9BF8-2187AEC4FD31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista1LacoCondicional_IF-Atividade2", "Lista1LacoCondicional_IF-Atividade2\Lista1LacoCondicional_IF-Atividade2.csproj", "{FA53BFD4-2EFE-48A9-AC69-435020B1ABDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista1LacoCondicional_IF-Atividade2", "Lista1LacoCondicional_IF-Atividade2\Lista1LacoCondicional_IF-Atividade2.csproj", "{FA53BFD4-2EFE-48A9-AC69-435020B1ABDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista02LaçoCondicionalSwitch-Exercicio5", "Lista02LaçoCondicionalSwitch-Exercicio5\Lista02LaçoCondicionalSwitch-Exercicio5.csproj", "{CF058600-1E9F-4BAB-AC2F-7755A200B050}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista02LaçoCondicionalSwitch-Exercicio5", "Lista02LaçoCondicionalSwitch-Exercicio5\Lista02LaçoCondicionalSwitch-Exercicio5.csproj", "{CF058600-1E9F-4BAB-AC2F-7755A200B050}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista02LaçoCondicionalSwitch-Exercicio6", "Lista02LaçoCondicionalSwitch-Exercicio6\Lista02LaçoCondicionalSwitch-Exercicio6.csproj", "{F6D60B65-7D97-4ECF-9D6B-D8B40DA743AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista02LaçoCondicionalSwitch-Exercicio6", "Lista02LaçoCondicionalSwitch-Exercicio6\Lista02LaçoCondicionalSwitch-Exercicio6.csproj", "{F6D60B65-7D97-4ECF-9D6B-D8B40DA743AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista1LacoCondicional_IF-Atividade3", "Lista1LacoCondicional_IF-Atividade3\Lista1LacoCondicional_IF-Atividade3.csproj", "{354BB2A4-DFFB-400D-8926-B9B7F73FA550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista1LacoCondicional_IF-Atividade4", "Lista1LacoCondicional_IF-Atividade4\Lista1LacoCondicional_IF-Atividade4.csproj", "{71E3CC1A-779C-4BED-9264-81EA0680C1E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{F6D60B65-7D97-4ECF-9D6B-D8B40DA743AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6D60B65-7D97-4ECF-9D6B-D8B40DA743AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6D60B65-7D97-4ECF-9D6B-D8B40DA743AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{354BB2A4-DFFB-400D-8926-B9B7F73FA550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354BB2A4-DFFB-400D-8926-B9B7F73FA550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354BB2A4-DFFB-400D-8926-B9B7F73FA550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354BB2A4-DFFB-400D-8926-B9B7F73FA550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E3CC1A-779C-4BED-9264-81EA0680C1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E3CC1A-779C-4BED-9264-81EA0680C1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E3CC1A-779C-4BED-9264-81EA0680C1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E3CC1A-779C-4BED-9264-81EA0680C1E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
