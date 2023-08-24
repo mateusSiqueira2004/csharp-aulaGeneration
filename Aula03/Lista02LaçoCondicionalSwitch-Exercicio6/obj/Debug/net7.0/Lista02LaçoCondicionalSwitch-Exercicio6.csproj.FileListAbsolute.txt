@@ -1,0 +1,14 @@
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\bin\Debug\net7.0\Lista02LaçoCondicionalSwitch-Exercicio6.exe
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\bin\Debug\net7.0\Lista02LaçoCondicionalSwitch-Exercicio6.deps.json
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\bin\Debug\net7.0\Lista02LaçoCondicionalSwitch-Exercicio6.runtimeconfig.json
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\bin\Debug\net7.0\Lista02LaçoCondicionalSwitch-Exercicio6.dll
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\bin\Debug\net7.0\Lista02LaçoCondicionalSwitch-Exercicio6.pdb
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\obj\Debug\net7.0\Lista02LaçoCondicionalSwitch-Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\obj\Debug\net7.0\Lista02LaçoCondicionalSwitch-Exercicio6.AssemblyInfoInputs.cache
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\obj\Debug\net7.0\Lista02LaçoCondicionalSwitch-Exercicio6.AssemblyInfo.cs
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\obj\Debug\net7.0\Lista02LaçoCondicionalSwitch-Exercicio6.csproj.CoreCompileInputs.cache
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\obj\Debug\net7.0\Lista02LaçoCondicionalSwitch-Exercicio6.dll
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\obj\Debug\net7.0\refint\Lista02LaçoCondicionalSwitch-Exercicio6.dll
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\obj\Debug\net7.0\Lista02LaçoCondicionalSwitch-Exercicio6.pdb
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\obj\Debug\net7.0\Lista02LaçoCondicionalSwitch-Exercicio6.genruntimeconfig.cache
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio6\obj\Debug\net7.0\ref\Lista02LaçoCondicionalSwitch-Exercicio6.dll

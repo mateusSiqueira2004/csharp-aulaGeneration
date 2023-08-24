@@ -1,0 +1,14 @@
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\bin\Debug\net7.0\Aula03-Notas.exe
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\bin\Debug\net7.0\Aula03-Notas.deps.json
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\bin\Debug\net7.0\Aula03-Notas.runtimeconfig.json
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\bin\Debug\net7.0\Aula03-Notas.dll
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\bin\Debug\net7.0\Aula03-Notas.pdb
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\obj\Debug\net7.0\Aula03-Notas.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\obj\Debug\net7.0\Aula03-Notas.AssemblyInfoInputs.cache
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\obj\Debug\net7.0\Aula03-Notas.AssemblyInfo.cs
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\obj\Debug\net7.0\Aula03-Notas.csproj.CoreCompileInputs.cache
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\obj\Debug\net7.0\Aula03-Notas.dll
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\obj\Debug\net7.0\refint\Aula03-Notas.dll
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\obj\Debug\net7.0\Aula03-Notas.pdb
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\obj\Debug\net7.0\Aula03-Notas.genruntimeconfig.cache
+E:\projetos\C# - Aulageneration\Aula03\Aula03-Notas\obj\Debug\net7.0\ref\Aula03-Notas.dll

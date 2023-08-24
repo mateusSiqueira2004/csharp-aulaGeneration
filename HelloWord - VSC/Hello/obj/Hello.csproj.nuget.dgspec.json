@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projetos\\C# - Aulageneration\\HelloWord - VSC\\Hello\\Hello.csproj": {}
+    "e:\\projetos\\C# - Aulageneration\\HelloWord - VSC\\Hello\\Hello.csproj": {}
   },
   "projects": {
-    "E:\\projetos\\C# - Aulageneration\\HelloWord - VSC\\Hello\\Hello.csproj": {
+    "e:\\projetos\\C# - Aulageneration\\HelloWord - VSC\\Hello\\Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projetos\\C# - Aulageneration\\HelloWord - VSC\\Hello\\Hello.csproj",
+        "projectUniqueName": "e:\\projetos\\C# - Aulageneration\\HelloWord - VSC\\Hello\\Hello.csproj",
         "projectName": "Hello",
-        "projectPath": "E:\\projetos\\C# - Aulageneration\\HelloWord - VSC\\Hello\\Hello.csproj",
+        "projectPath": "e:\\projetos\\C# - Aulageneration\\HelloWord - VSC\\Hello\\Hello.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "E:\\projetos\\C# - Aulageneration\\HelloWord - VSC\\Hello\\obj\\",
+        "outputPath": "e:\\projetos\\C# - Aulageneration\\HelloWord - VSC\\Hello\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

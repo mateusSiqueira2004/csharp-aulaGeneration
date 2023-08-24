@@ -2,9 +2,10 @@
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
-            float salarioAtg, abono, salarioNv;
+            float salarioAtg,abono, salarioNv;
             Console.WriteLine("Digite o antigo sálario do funcionario: ");
             salarioAtg = Convert.ToSingle(Console.ReadLine());
             Console.WriteLine("Digite o Abono do funcionario: ");
