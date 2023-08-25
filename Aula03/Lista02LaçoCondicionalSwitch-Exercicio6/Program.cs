@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             string[] cargos = {"Gerente","Vendedor","Supervisor","Motorista","Estoquista","Tecnico de TI"}; 
-            int[]    bonus  = {10,7,9,6,5,8};
+            float[]  bonus  = {0.10f,0.07f,0.09f,0.06f,0.05f,0.08f};
             string?  nome;
             float    salario, resul = 0;
             int      id;
@@ -20,27 +20,27 @@
             switch (id)
             {
                 case 0:
-                    resul = (salario * bonus[id]) / 100;
+                    resul = salario * bonus[id];
                     break;
 
                 case 1:
-                    resul = (salario * bonus[id]) / 100;
+                    resul = salario * bonus[id];
                     break;
 
                 case 2:
-                    resul = (salario * bonus[id]) / 100;
+                    resul = salario * bonus[id];
                     break;
 
                 case 3:
-                    resul = (salario * bonus[id]) / 100;
+                    resul = salario * bonus[id];
                     break;
 
                 case 4:
-                    resul = (salario * bonus[id]) / 100;
+                    resul = salario * bonus[id];
                     break;
 
                 case 5:
-                    resul = (salario * bonus[id]) / 100;
+                    resul = salario * bonus[id];
                     break;
                 default:
                     Console.WriteLine("Valores Invalidos");

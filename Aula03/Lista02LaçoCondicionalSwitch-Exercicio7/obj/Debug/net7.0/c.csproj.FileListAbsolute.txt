@@ -1,0 +1,14 @@
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\bin\Debug\net7.0\c.exe
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\bin\Debug\net7.0\c.deps.json
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\bin\Debug\net7.0\c.runtimeconfig.json
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\bin\Debug\net7.0\c.dll
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\bin\Debug\net7.0\c.pdb
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\obj\Debug\net7.0\c.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\obj\Debug\net7.0\c.AssemblyInfoInputs.cache
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\obj\Debug\net7.0\c.AssemblyInfo.cs
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\obj\Debug\net7.0\c.csproj.CoreCompileInputs.cache
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\obj\Debug\net7.0\c.dll
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\obj\Debug\net7.0\refint\c.dll
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\obj\Debug\net7.0\c.pdb
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\obj\Debug\net7.0\c.genruntimeconfig.cache
+E:\projetos\C# - Aulageneration\Aula03\Lista02LaçoCondicionalSwitch-Exercicio7\obj\Debug\net7.0\ref\c.dll

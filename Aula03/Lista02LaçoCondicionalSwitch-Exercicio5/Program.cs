@@ -37,7 +37,7 @@
                     Console.WriteLine("Id invalida");
                     break;
             }
-            Console.WriteLine($"O produto comprado foi {nomeProduto[idSelecionado]}, sendo comprado uma quantidade de {qtd}\nO valor total foi de R${resul:F2}");
+            Console.WriteLine($"\n\nO produto comprado foi {nomeProduto[idSelecionado]}, sendo comprado uma quantidade de {qtd}\nO valor total foi de R${resul:F2}");
 
         }
     }

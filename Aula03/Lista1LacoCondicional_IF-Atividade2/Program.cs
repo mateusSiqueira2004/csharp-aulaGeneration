@@ -19,7 +19,8 @@
                 Console.WriteLine($"O numero {nun} é par e negativo");
             else if (nun > 0 && resul == 0)
                 Console.WriteLine($"O numero {nun} é par e positivo");
-            else Console.WriteLine("insira valores validos!");
+            else 
+                Console.WriteLine("insira valores validos!");
         }
     }
 }
