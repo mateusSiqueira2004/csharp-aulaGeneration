@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projetos\\C# - Aulageneration\\Aula05\\Aula05\\Aula05.csproj": {}
+    "E:\\projetos\\C# - Aulageneration\\Aula05\\Aula05\\Aula05-Exercicio1BUGADAO.csproj": {}
   },
   "projects": {
-    "E:\\projetos\\C# - Aulageneration\\Aula05\\Aula05\\Aula05.csproj": {
+    "E:\\projetos\\C# - Aulageneration\\Aula05\\Aula05\\Aula05-Exercicio1BUGADAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projetos\\C# - Aulageneration\\Aula05\\Aula05\\Aula05.csproj",
-        "projectName": "Aula05",
-        "projectPath": "E:\\projetos\\C# - Aulageneration\\Aula05\\Aula05\\Aula05.csproj",
+        "projectUniqueName": "E:\\projetos\\C# - Aulageneration\\Aula05\\Aula05\\Aula05-Exercicio1BUGADAO.csproj",
+        "projectName": "Aula05-Exercicio1BUGADAO",
+        "projectPath": "E:\\projetos\\C# - Aulageneration\\Aula05\\Aula05\\Aula05-Exercicio1BUGADAO.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
         "outputPath": "E:\\projetos\\C# - Aulageneration\\Aula05\\Aula05\\obj\\",
         "projectStyle": "PackageReference",

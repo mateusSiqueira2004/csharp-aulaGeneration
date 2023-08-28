@@ -1,4 +1,4 @@
-﻿namespace Aula05
+﻿namespace Aula05_Exercicio1
 {
     internal class Program
     {
@@ -10,17 +10,17 @@
             Console.Write("Digite o numero que deseja procurar: ");
             nun = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 0; i < inteiros.Length; i++) {
-                if (inteiros[i] == nun) {
+            for (int i = 0; i < inteiros.Length; i++)
+            {
+                if (inteiros[i] == nun)
+                {
                     Console.Write($"O {nun} está na posição {Array.IndexOf(inteiros, nun)}");
                     confirm = true;
                     break;
                 }
             }
-            if(confirm == false)
-               Console.WriteLine($"{nun} não encontrado!");
-                
-            
+            if (confirm == false)
+                Console.WriteLine($"{nun} não encontrado!");
         }
     }
 }
