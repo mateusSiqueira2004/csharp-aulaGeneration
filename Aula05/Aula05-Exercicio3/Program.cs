@@ -4,15 +4,26 @@
     {
         static void Main(string[] args)
         {
-            int[,] matrix = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+            int[,] matriz = new int[3,3];
             int somaDiagonal = 0, somaDiagonalReversa = 0; string Diagonal = " ",DiagonalReversa = " ";
 
-            for (int i = 0; i < Math.Sqrt(matrix.Length); i++)
+            for (int i = 0; i < Math.Sqrt(matriz.Length); i++)
             {
-                Diagonal += matrix[i, i] + " ";
-                DiagonalReversa += matrix[i, 2 - i] + " ";
-                somaDiagonal += matrix[i, i];
-                somaDiagonalReversa += matrix[i, 2 - i];
+                for (int j = 0; j<Math.Sqrt(matriz.Length); j++)
+                {
+                    Console.WriteLine(
+                      $"Digite um valor para a posição [{i}, {j}]: ");
+                    matriz[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+
+            }
+
+            for (int i = 0; i < Math.Sqrt(matriz.Length); i++)
+            {
+                Diagonal += matriz[i, i] + " ";
+                DiagonalReversa += matriz[i, 2 - i] + " ";
+                somaDiagonal += matriz[i, i];
+                somaDiagonalReversa += matriz[i, 2 - i];
             }
             Console.WriteLine(
                 $"Os valores na diagonal principal é: {Diagonal}\n"+
