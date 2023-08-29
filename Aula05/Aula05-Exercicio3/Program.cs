@@ -21,18 +21,15 @@
             for (int i = 0; i < Math.Sqrt(matriz.Length); i++)
             {
                 Diagonal += matriz[i, i] + " ";
-                DiagonalReversa += matriz[i, 2 - i] + " ";
+                DiagonalReversa += matriz[i, (int)Math.Sqrt(matriz.Length)-1-i] + " ";
                 somaDiagonal += matriz[i, i];
-                somaDiagonalReversa += matriz[i, 2 - i];
+                somaDiagonalReversa += matriz[i, (int)Math.Sqrt(matriz.Length) - 1 - i];
             }
             Console.WriteLine(
                 $"Os valores na diagonal principal é: {Diagonal}\n"+
                 $"Os valores na diagonal secundaria é: {DiagonalReversa}\n"+
                 $"A soma da Diagonal principal é: {somaDiagonal} \n" +
                 $"A soma da Diagonal secundaria é: {somaDiagonalReversa}");
-
-
-
         }
     }
 }

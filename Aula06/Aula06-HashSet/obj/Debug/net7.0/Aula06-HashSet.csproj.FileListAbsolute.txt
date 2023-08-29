@@ -1,0 +1,14 @@
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\bin\Debug\net7.0\Aula06-HashSet.exe
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\bin\Debug\net7.0\Aula06-HashSet.deps.json
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\bin\Debug\net7.0\Aula06-HashSet.runtimeconfig.json
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\bin\Debug\net7.0\Aula06-HashSet.dll
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\bin\Debug\net7.0\Aula06-HashSet.pdb
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\obj\Debug\net7.0\Aula06-HashSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\obj\Debug\net7.0\Aula06-HashSet.AssemblyInfoInputs.cache
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\obj\Debug\net7.0\Aula06-HashSet.AssemblyInfo.cs
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\obj\Debug\net7.0\Aula06-HashSet.csproj.CoreCompileInputs.cache
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\obj\Debug\net7.0\Aula06-HashSet.dll
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\obj\Debug\net7.0\refint\Aula06-HashSet.dll
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\obj\Debug\net7.0\Aula06-HashSet.pdb
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\obj\Debug\net7.0\Aula06-HashSet.genruntimeconfig.cache
+E:\projetos\C# - Aulageneration\Aula06\Aula06-HashSet\obj\Debug\net7.0\ref\Aula06-HashSet.dll

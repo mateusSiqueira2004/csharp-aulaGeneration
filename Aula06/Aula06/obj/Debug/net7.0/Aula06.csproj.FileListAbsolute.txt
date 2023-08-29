@@ -1,0 +1,14 @@
+E:\projetos\C# - Aulageneration\Aula06\Aula06\bin\Debug\net7.0\Aula06.exe
+E:\projetos\C# - Aulageneration\Aula06\Aula06\bin\Debug\net7.0\Aula06.deps.json
+E:\projetos\C# - Aulageneration\Aula06\Aula06\bin\Debug\net7.0\Aula06.runtimeconfig.json
+E:\projetos\C# - Aulageneration\Aula06\Aula06\bin\Debug\net7.0\Aula06.dll
+E:\projetos\C# - Aulageneration\Aula06\Aula06\bin\Debug\net7.0\Aula06.pdb
+E:\projetos\C# - Aulageneration\Aula06\Aula06\obj\Debug\net7.0\Aula06.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C# - Aulageneration\Aula06\Aula06\obj\Debug\net7.0\Aula06.AssemblyInfoInputs.cache
+E:\projetos\C# - Aulageneration\Aula06\Aula06\obj\Debug\net7.0\Aula06.AssemblyInfo.cs
+E:\projetos\C# - Aulageneration\Aula06\Aula06\obj\Debug\net7.0\Aula06.csproj.CoreCompileInputs.cache
+E:\projetos\C# - Aulageneration\Aula06\Aula06\obj\Debug\net7.0\Aula06.dll
+E:\projetos\C# - Aulageneration\Aula06\Aula06\obj\Debug\net7.0\refint\Aula06.dll
+E:\projetos\C# - Aulageneration\Aula06\Aula06\obj\Debug\net7.0\Aula06.pdb
+E:\projetos\C# - Aulageneration\Aula06\Aula06\obj\Debug\net7.0\Aula06.genruntimeconfig.cache
+E:\projetos\C# - Aulageneration\Aula06\Aula06\obj\Debug\net7.0\ref\Aula06.dll
