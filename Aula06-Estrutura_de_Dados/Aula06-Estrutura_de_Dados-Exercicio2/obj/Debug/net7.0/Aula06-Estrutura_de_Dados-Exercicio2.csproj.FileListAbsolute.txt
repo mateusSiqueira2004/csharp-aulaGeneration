@@ -1,0 +1,14 @@
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\bin\Debug\net7.0\Aula06-Estrutura_de_Dados-Exercicio2.exe
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\bin\Debug\net7.0\Aula06-Estrutura_de_Dados-Exercicio2.deps.json
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\bin\Debug\net7.0\Aula06-Estrutura_de_Dados-Exercicio2.runtimeconfig.json
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\bin\Debug\net7.0\Aula06-Estrutura_de_Dados-Exercicio2.dll
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\bin\Debug\net7.0\Aula06-Estrutura_de_Dados-Exercicio2.pdb
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\obj\Debug\net7.0\Aula06-Estrutura_de_Dados-Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\obj\Debug\net7.0\Aula06-Estrutura_de_Dados-Exercicio2.AssemblyInfoInputs.cache
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\obj\Debug\net7.0\Aula06-Estrutura_de_Dados-Exercicio2.AssemblyInfo.cs
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\obj\Debug\net7.0\Aula06-Estrutura_de_Dados-Exercicio2.csproj.CoreCompileInputs.cache
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\obj\Debug\net7.0\Aula06-Estrutura_de_Dados-Exercicio2.dll
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\obj\Debug\net7.0\refint\Aula06-Estrutura_de_Dados-Exercicio2.dll
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\obj\Debug\net7.0\Aula06-Estrutura_de_Dados-Exercicio2.pdb
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\obj\Debug\net7.0\Aula06-Estrutura_de_Dados-Exercicio2.genruntimeconfig.cache
+E:\projetos\C# - Aulageneration\Aula06-Estrutura_de_Dados\Aula06-Estrutura_de_Dados-Exercicio2\obj\Debug\net7.0\ref\Aula06-Estrutura_de_Dados-Exercicio2.dll
