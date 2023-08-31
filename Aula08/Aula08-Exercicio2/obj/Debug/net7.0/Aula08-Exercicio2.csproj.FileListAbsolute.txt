@@ -1,0 +1,14 @@
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\bin\Debug\net7.0\Aula08-Exercicio2.exe
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\bin\Debug\net7.0\Aula08-Exercicio2.deps.json
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\bin\Debug\net7.0\Aula08-Exercicio2.runtimeconfig.json
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\bin\Debug\net7.0\Aula08-Exercicio2.dll
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\bin\Debug\net7.0\Aula08-Exercicio2.pdb
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\obj\Debug\net7.0\Aula08-Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\obj\Debug\net7.0\Aula08-Exercicio2.AssemblyInfoInputs.cache
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\obj\Debug\net7.0\Aula08-Exercicio2.AssemblyInfo.cs
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\obj\Debug\net7.0\Aula08-Exercicio2.csproj.CoreCompileInputs.cache
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\obj\Debug\net7.0\Aula08-Exercicio2.dll
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\obj\Debug\net7.0\refint\Aula08-Exercicio2.dll
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\obj\Debug\net7.0\Aula08-Exercicio2.pdb
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\obj\Debug\net7.0\Aula08-Exercicio2.genruntimeconfig.cache
+E:\projetos\C# - Aulageneration\Aula08\Aula08-Exercicio2\obj\Debug\net7.0\ref\Aula08-Exercicio2.dll

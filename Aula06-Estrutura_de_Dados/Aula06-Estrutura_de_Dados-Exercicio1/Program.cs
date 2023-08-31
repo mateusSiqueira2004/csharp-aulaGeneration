@@ -11,7 +11,8 @@
                 int confirm = 0;
                 Console.WriteLine(
                     "\n\n*************************************************\n\n" +
-                    "             Bem-Vindo\n             ¨¨¨ ¨¨¨¨¨\n" +
+                    "            Bem-Vindo\n" +
+                    "             ¨¨¨ ¨¨¨¨¨\n" +
                     "\nDigite o numero atribuido a ação desejada:" +
                     "\n1-Adcionar Cliente na Fila" +
                     "\n2-Listar todos clientes" +

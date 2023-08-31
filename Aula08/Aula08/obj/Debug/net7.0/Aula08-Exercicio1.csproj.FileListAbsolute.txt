@@ -1,0 +1,14 @@
+E:\projetos\C# - Aulageneration\Aula08\Aula08\bin\Debug\net7.0\Aula08-Exercicio1.exe
+E:\projetos\C# - Aulageneration\Aula08\Aula08\bin\Debug\net7.0\Aula08-Exercicio1.deps.json
+E:\projetos\C# - Aulageneration\Aula08\Aula08\bin\Debug\net7.0\Aula08-Exercicio1.runtimeconfig.json
+E:\projetos\C# - Aulageneration\Aula08\Aula08\bin\Debug\net7.0\Aula08-Exercicio1.dll
+E:\projetos\C# - Aulageneration\Aula08\Aula08\bin\Debug\net7.0\Aula08-Exercicio1.pdb
+E:\projetos\C# - Aulageneration\Aula08\Aula08\obj\Debug\net7.0\Aula08-Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C# - Aulageneration\Aula08\Aula08\obj\Debug\net7.0\Aula08-Exercicio1.AssemblyInfoInputs.cache
+E:\projetos\C# - Aulageneration\Aula08\Aula08\obj\Debug\net7.0\Aula08-Exercicio1.AssemblyInfo.cs
+E:\projetos\C# - Aulageneration\Aula08\Aula08\obj\Debug\net7.0\Aula08-Exercicio1.csproj.CoreCompileInputs.cache
+E:\projetos\C# - Aulageneration\Aula08\Aula08\obj\Debug\net7.0\Aula08-Exercicio1.dll
+E:\projetos\C# - Aulageneration\Aula08\Aula08\obj\Debug\net7.0\refint\Aula08-Exercicio1.dll
+E:\projetos\C# - Aulageneration\Aula08\Aula08\obj\Debug\net7.0\Aula08-Exercicio1.pdb
+E:\projetos\C# - Aulageneration\Aula08\Aula08\obj\Debug\net7.0\Aula08-Exercicio1.genruntimeconfig.cache
+E:\projetos\C# - Aulageneration\Aula08\Aula08\obj\Debug\net7.0\ref\Aula08-Exercicio1.dll

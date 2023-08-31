@@ -18,6 +18,13 @@
                     "\n2-Listar todos livros" +
                     "\n3-Remover livros da pilha" +
                     "\n4-Sair" +
+                    "\n                                    * " +
+                    "\n                                   *  " +
+                    "\n       **  *****       **       **  **" +
+                    "\n       **    *       **  **     **  **" +
+                    "\n       **    *      **    **    **  **" +
+                    "\n       **    *     ** **** **   **  **" +
+                    "\n       **    *    **        **   ****  "+
                     "\n\n*************************************************\n\n");
                 confirm = Convert.ToInt32(Console.ReadLine());
                 Console.Clear();

@@ -16,8 +16,6 @@
             Console.WriteLine("\n\nLista de cores escritas em ordem crescente:");
             foreach (var cores in cor)
                 Console.Write(cores + " ");
-            
-
         }
     }
 }
