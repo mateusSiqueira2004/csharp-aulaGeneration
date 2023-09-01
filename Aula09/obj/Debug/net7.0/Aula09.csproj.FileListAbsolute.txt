@@ -1,0 +1,14 @@
+E:\projetos\C# - Aulageneration\Aula09\bin\Debug\net7.0\Aula09.exe
+E:\projetos\C# - Aulageneration\Aula09\bin\Debug\net7.0\Aula09.deps.json
+E:\projetos\C# - Aulageneration\Aula09\bin\Debug\net7.0\Aula09.runtimeconfig.json
+E:\projetos\C# - Aulageneration\Aula09\bin\Debug\net7.0\Aula09.dll
+E:\projetos\C# - Aulageneration\Aula09\bin\Debug\net7.0\Aula09.pdb
+E:\projetos\C# - Aulageneration\Aula09\obj\Debug\net7.0\Aula09.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\C# - Aulageneration\Aula09\obj\Debug\net7.0\Aula09.AssemblyInfoInputs.cache
+E:\projetos\C# - Aulageneration\Aula09\obj\Debug\net7.0\Aula09.AssemblyInfo.cs
+E:\projetos\C# - Aulageneration\Aula09\obj\Debug\net7.0\Aula09.csproj.CoreCompileInputs.cache
+E:\projetos\C# - Aulageneration\Aula09\obj\Debug\net7.0\Aula09.dll
+E:\projetos\C# - Aulageneration\Aula09\obj\Debug\net7.0\refint\Aula09.dll
+E:\projetos\C# - Aulageneration\Aula09\obj\Debug\net7.0\Aula09.pdb
+E:\projetos\C# - Aulageneration\Aula09\obj\Debug\net7.0\Aula09.genruntimeconfig.cache
+E:\projetos\C# - Aulageneration\Aula09\obj\Debug\net7.0\ref\Aula09.dll

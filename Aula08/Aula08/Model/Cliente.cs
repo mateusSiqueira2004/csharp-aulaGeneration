@@ -7,26 +7,27 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Aula08_Exercicio1.Model
 {
-    internal class Cliente
+    public class Cliente
     {
-        private string nome = string.Empty, email = string.Empty, cpf = string.Empty;
-        private int idade, id ;
+        private string nome = string.Empty, email = string.Empty, telefone = string.Empty, endereco = string.Empty;
+        private int id, tipo;
 
-        public Cliente(string nome, string email, int idade, int id, string cpf)
+        public Cliente(string nome, string email, string endereco, int id, string telefone, int tipo)
         {
             this.nome = nome;
             this.email = email;
-            this.idade = idade;
+            this.endereco = endereco;
             this.id = id;
-            this.cpf = cpf;
+            this.telefone = telefone;
+            this.tipo = tipo;
         }
         public string getNome()
         {
             return nome;
         }
-        public int getIdade()
+        public string getEndereco()
         {
-            return idade;
+            return endereco;
         }
         public int getId()
         {
@@ -36,14 +37,22 @@ namespace Aula08_Exercicio1.Model
         {
             return email;
         }
-        public string getCpf()
+        public string getTelefone()
         {
-            return cpf;
+            return telefone;
+        }
+        public int getTipo()
+        {
+            return tipo;
         }
 
-        public void setCpf(string cpf)
+        public void setTipo(int tipo)
         {
-            this.cpf = cpf;
+            this.tipo =tipo;
+        }
+        public void setTelefone(string telefone)
+        {
+            this.telefone = telefone;
         }
         public void setEmail(string email)
         {
@@ -53,17 +62,27 @@ namespace Aula08_Exercicio1.Model
         {
             this.id = id;
         }
-        public void setIdade(int idade)
+        public void setEndereco(string endereco)
         {
-            this.idade = idade;
+            this.endereco = endereco;
         }
         public void setNome(string nome)
         {
             this.nome = nome;
         }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
+            string tipo = " ";
+            switch (this.tipo)
+            {
+                case 1:
+                    tipo = "\nEssa é uma Pessoa Juridica";
+                    break;
+                case 2:
+                    tipo = "\nEssa é uma Pessoa Fisica";
+                    break;
+            }
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine(
@@ -71,11 +90,10 @@ namespace Aula08_Exercicio1.Model
                 "\n     AQUI ESTÁ INFORMAÇÕES DA SUA CONTA\n" +
                 "\n*************************************************\n" +
                 $"\nSeu nome: {this.nome}" +
-                $"\nSua idade: {this.idade}" +
-                $"\nId de conta: {id}" +
+                $"\nSeu endereco: {this.endereco}" +
+                $"\nId de conta: {this.id}" +
                 $"\nEmail registrado: {this.email}" +
-                $"\nSeu CPF: {this.cpf}" +
-                "\n*************************************************\n");
+                $"\nSeu telefone: {this.telefone}" + tipo);
         }
     }
 }
