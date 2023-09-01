@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Aula08_Exercicio2.Model
 {
-    internal class Funcionario
+    public class Funcionario
     {
         private string nome = string.Empty, funcao = string.Empty;
         private decimal salario;
@@ -62,9 +62,9 @@ namespace Aula08_Exercicio2.Model
             this.nome = nome;
         }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
-
+            
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine(
                 "\n*************************************************\n" +
